@@ -1,0 +1,24 @@
+
+
+.pagination-box{
+    margin-top: 30px;
+    border-top:1px solid rgba(0, 0, 0, 0.137);
+}
+
+.page-button{
+    background-color: rgb(40,44,63);
+    padding:5px 8px;
+    color:white;
+    margin:5px;
+    border-radius: 2px;
+    cursor: pointer;
+    border:none;
+    font-size:100%;
+
+}
+
+.page-buttons{
+    text-align: center;
+    margin:20px auto;
+    
+}
